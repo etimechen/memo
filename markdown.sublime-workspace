@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"0",
+				"0p645版"
+			],
+			[
+				"再按tab键",
+				"再按tab键和空格"
+			],
+			[
+				"在",
+				"在SublimeText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/chenliang/Works/Works/销售管理系统开发/视图应用模型图新/VSMS机会分析视图和机会指标视图需求修改.md",
+			"settings":
+			{
+				"buffer_size": 3732,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mysql.md",
+			"settings":
+			{
+				"buffer_size": 705,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Media Data/百度云同步盘/MarkDown"
+	],
+	"file_history":
+	[
+		"/Volumes/Media Data/百度云同步盘/MarkDown/linux.md",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/mysql.md",
+		"/Users/chenliang/Downloads/solarized/iterm2-colors-solarized/README.md",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/ExtJs国际化和本地化.md",
+		"/Users/chenliang/Works/Works/vsms/documents/角色-权限对应.md",
+		"/Users/chenliang/Desktop/Untitled.txt",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/view/main/Main.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/view/markets/Markets.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/view/main/Header.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/view/main/MainController.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/view/stocks/Stocks.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/store/Markets.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/store/Stocks.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/controller/Main.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/view/Readme.md",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/Application.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/bootstrap.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/bootstrap.json",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app/model/Company.js",
+		"/Users/chenliang/Works/Develop/extjs/ext-5.1.1/examples/portal/app.js",
+		"/Users/chenliang/Downloads/hosts 2",
+		"/private/etc/hosts",
+		"/Users/chenliang/Works/Develop/MyProject/WorkSpace/jniTest/bin/com/chen/jni/MyDLL.cpp",
+		"/Users/chenliang/Works/Develop/MyProject/WorkSpace/jniTest/bin/com/chen/jni/com_chen_jni_MyDLL.h",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/Java调用C++库文件例子.md",
+		"/Users/chenliang/Works/Develop/二维码生成/qrcode.html",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/Sencha笔记.md",
+		"/Users/chenliang/Works/Works/Exfo/ipro/iPro-4.1.0-SP1/MySQL/DB_script/FlowDBCreation.sql",
+		"/Users/chenliang/Works/Works/销售管理系统开发/database/chart_optsize_proc.sql",
+		"/Volumes/bakup/Works/Works/销售管理系统开发/database/chart_optsize_target_proc.sql",
+		"/Users/chenliang/Works/Works/销售管理系统开发/database/Demo空库.sql",
+		"/Users/chenliang/Downloads/hosts",
+		"/Users/chenliang/Works/Works/销售管理系统开发/视图应用模型图新/VSMS机会分析视图和机会指标视图需求修改.md",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/Git常用命令.md",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/Mac OS X印象笔记助手启动.md",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/安装Command-T插件.md",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/PlainTasks使用方法.md",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/User/Markdown Extended.sublime-settings",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Soda.sublime-package",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/Monokai Extended/Monokai Extended Origin.tmTheme",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/markdown.sublime-project",
+		"/Volumes/Media Data/百度云同步盘/MarkDown/DoubleCommander配置.md",
+		"/Users/chenliang/Downloads/1849330.shtml",
+		"/Users/chenliang/.vimrc",
+		"/Users/chenliang/Desktop/doublecmd.zh_CN.po",
+		"/Applications/Double Commander.app/Contents/Resources/qt.conf",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/FileDiffs/FileDiffs.sublime-settings",
+		"/Users/chenliang/.ssh/id_rsa.pub",
+		"/Volumes/Media Data/百度云同步盘/Tasks/daily.todo",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Readme.md",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/chenliang/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/untitled.sublime-project",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Application.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/analysis/AnalysisPanel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/Workbench.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/vsms.sublime-workspace",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/bootstrap.json",
+		"/Users/chenliang/Works/Servers/x64/apache-tomcat-7.0.64/conf/server.xml",
+		"/Users/chenliang/Works/Servers/x64/apache-tomcat-7.0.64/conf/Catalina/localhost/vsmsserver.xml",
+		"/Users/chenliang/Works/Servers/x64/apache-tomcat-7.0.64/conf/Catalina/localhost/vsms.xml",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/agency/Agency.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/procurementMethod/procurementMethod.js",
+		"/Users/chenliang/Works/Works/销售管理系统开发/database/demo期初初始化数据20160118.sql",
+		"/Users/chenliang/Desktop/untitled.todo"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"optprice",
+			"钻取",
+			"google",
+			"@",
+			"while",
+			"sql",
+			"temporary",
+			"PROCEDURE",
+			"项目",
+			"☐",
+			"Packages",
+			"side_bar",
+			"focus",
+			"side_bar",
+			"File",
+			"Multi",
+			"Multi Rename Tools",
+			"up",
+			"p",
+			"control",
+			"space",
+			"tab",
+			"alt",
+			"shift",
+			"enter",
+			"Ctrl",
+			"⌘",
+			"，",
+			"；",
+			"）",
+			"（",
+			"github 2",
+			"github",
+			"analpanel",
+			"new",
+			"new file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"机会",
+			"<kbd>control</kbd>",
+			"<kbd>space</kbd>",
+			"<kbd>tab</kbd>",
+			"<kbd>alt</kbd>",
+			"<kbd>shift</kbd>",
+			"<kbd>enter</kbd>",
+			"<kbd>Ctrl</kbd>",
+			"<kbd>⌘</kbd>",
+			",",
+			";",
+			")",
+			"("
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/chenliang/Works/Works/销售管理系统开发/视图应用模型图新/VSMS机会分析视图和机会指标视图需求修改.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mysql.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								547,
+								547
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "markdown.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"task",
+				"PlainTasks使用方法.md"
+			],
+			[
+				"mysql",
+				"mysql.md"
+			],
+			[
+				"git",
+				"Git常用命令.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Works/Works/vsms/vsms/vsms/vsms.sublime-project"
+			],
+			[
+				"tasks",
+				"/Volumes/Media Data/百度云同步盘/Tasks/tasks.sublime-project"
+			],
+			[
+				"vsms",
+				"~/Works/Works/vsms/vsms/vsms/vsms.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
