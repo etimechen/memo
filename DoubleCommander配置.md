@@ -37,8 +37,8 @@
 
 
 
-[img1]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/241CDF2F-4D9B-4ACC-837E-7707BC472AAB.png
-[img2]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/EDA033CA-653C-40C1-B4CC-4D0579A0334B.png
-[img3]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/91AC473C-D454-4D47-AA54-6ECE5070F15A.png
-[img4]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/51141458-11FD-428E-BC4C-6D4BF78B9FBF.png
+[img1]: https://github.com/etimechen/memo/blob/master/images/241CDF2F-4D9B-4ACC-837E-7707BC472AAB.png
+[img2]: https://github.com/etimechen/memo/blob/master/images/EDA033CA-653C-40C1-B4CC-4D0579A0334B.png
+[img3]: https://github.com/etimechen/memo/blob/master/images/91AC473C-D454-4D47-AA54-6ECE5070F15A.png
+[img4]: https://github.com/etimechen/memo/blob/master/images/51141458-11FD-428E-BC4C-6D4BF78B9FBF.png
     

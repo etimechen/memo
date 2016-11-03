@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"t",
+				"tbar"
+			],
+			[
+				"s",
+				"select\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "安装Command-T插件.md",
+			"settings":
+			{
+				"buffer_size": 890,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gist",
+				"Gist: Embed as script"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"Snippet",
+				"Snippet: .prepend()"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"brackethighlighter",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"pic",
+				"Color Picker"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"tasks",
+				"Set Syntax: Tasks"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 147.0,
+		"history":
+		[
+			"pint \"222\"",
+			"print 300-200",
+			"exit",
+			"exit()",
+			"100+330",
+			"print 'hello,world'",
+			"p'ring",
+			"print 'aa';",
+			"print 'aa'",
+			"print \"aa\";",
+			"print \"aa\"",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chenliang/Works/Memo"
+	],
+	"file_history":
+	[
+		"/Volumes/Media Data/百度云同步盘/笔记本/VSMS项目问题.md",
+		"/Users/chenliang/Works/Memo/markdown.sublime-project",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerAllAddGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/check/CustomerCheckPanel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerProcessGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerProcessGridWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/chart/Countrys.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/regionalanalysis/RegionalAnalysisModel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/util/chart/ChartUtil.js",
+		"/Users/chenliang/Works/Works/销售管理系统开发/雷舸/rego/rego项目更新路径.md",
+		"/Users/chenliang/Works/Websites/radial/Web/index.html",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/info/EmployeeInfoController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/info/EmployeeInfo.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/App.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/BogusMenuModule.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Locale.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerProcessList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/Workbench.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/OptGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Application.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/util/Global.js",
+		"/Users/chenliang/Works/Works/vsms/documents/项目更新路径.md",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/index.html",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/topn/OptTopNChart.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/SizeChart12.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/SizeChart.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/SizeBigValueChart.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/ShapeChart.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app.json",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/main/OptFullViewWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/product/OptProductController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/product/OptProductModel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/product/OptProductForm.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/main/OptSimpleViewWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/product/OptProductGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/main/OptController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/regionalanalysis/RegionalAnalysisController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/regionalanalysis/RegionalAnalysisWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/check/CustomerCheckController.js",
+		"/Applications/DataGrip.app/Contents/bin/datagrip.vmoptions",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/database/opt/OptGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/opt/Opt.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/crisp-zh_CN.json",
+		"/Users/chenliang/dumps/Dump20160913.sql",
+		"/Users/chenliang/Works/Works/销售管理系统开发/雷舸/rego/项目更新路径.md",
+		"/Users/chenliang/Works/Works/vsms/vsmsserver/doc/mysql/chart_optanalysis_product_proc.sql",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/entity/Customer.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/customer/Customer.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/database/customer/CustomerGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/LeadPersonList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/LeadController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/check/CustomerCheckWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/customer/check/CustomerChange.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerModel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/check/CustomerCheckModel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerAddGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/lead/SelectYesOrNo.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/ContactsModel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/customer/RegionsTree.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/contacts/ContactsAddGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/main/OptSimpleForm.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/quotation/OptQuotationForm.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/customer/CustomerType.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/CustomerAllAddWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/ContactsList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/customer/Region.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/customer/Country.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/customer/Country.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/customer/Region.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/check/CustomerCheckList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/OptGridSearchForm.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/WorkbenchWinController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/database/customer/CustomerGridSearchForm.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/main/OptModel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/opt/OptLocalLevel.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/opt/OptLocalType.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/opt/OptLocalConfidenceIndex.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/main/OptFullForm.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/systemconfig/SystemConfigController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/systemconfig/SystemConfigWin.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductEditGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductAddGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductAddWin.js",
+		"/Users/chenliang/Works/Works/vsms/documents/测试步骤.md",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Readme.md",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/todo/lead/Lead.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/database/lead/LeadGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/LeadList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/todo/lead/LeadReturn.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/LeadEditor.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/CustomerLeadList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/modal/OfficialCustomerGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/workbench/database/customer/Customer.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/customer/CustomerProcess.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/store/customer/IsBlackList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/entity/Contacts.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/contacts/ContactsList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/todo/customer/CustomerReturn.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workplan/worktype/WorkTypeController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workplan/WorkplanController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/systemconfig/productclassprofit/ProductClassProfitController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/systemconfig/procurementMethod/ProcurementMethodController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/systemconfig/faranchise/FaranchiseController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/quotation/profitpercent/QuotaProfitPercentController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/pro_class/ProductClassController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/brand/ProductBrandController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/stage/OptStageList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/quotation/OptQuotationController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/possibility/OptPossibilityList.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/login/LoginController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/contacts/ContactsController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/leadSourse/LeadSourceController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/tree/DepartController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/target/EmptargetController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/role/EmproleController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/job/PositionController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/EmployeeController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/employee/contacts/ContactsController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/OptAnalysisController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/FunnelAnalysisController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/regions/RegionsManageController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/industries/IndustryManageController.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Message.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/modal/LeadPersonGrid.js",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/FunnelAnalysisWin.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/chenliang/Works/Works/vsms/vsms/vsms/app",
+			"<project>",
+			"<open folders>",
+			"<project>",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"万",
+			"VSMS",
+			"日期",
+			"currencyid",
+			"remark",
+			"currencyexchangerate",
+			"discount",
+			"打开",
+			"at_totalcost",
+			"foreach",
+			"货币",
+			",",
+			"currency",
+			"customerProcessGridWinId",
+			"customerProcess",
+			"city",
+			"at_cusverification",
+			"SelectYesOrNo",
+			"customerlevel",
+			"town",
+			"province",
+			"privince",
+			"region",
+			"退回",
+			"处理",
+			"已处理",
+			"正式",
+			"客户导出",
+			"optproduct",
+			"客户名称",
+			"submitValue",
+			"submit",
+			"at_sendperson",
+			"at_receiveperson",
+			"initComponent",
+			"at_source",
+			"来源",
+			"全部",
+			"formSubmit",
+			"销售任务分配",
+			"选择员工",
+			"currencySymbolReplace",
+			"productAddPanel",
+			"at_addproduct",
+			"isoptStr",
+			"isbackStr",
+			"isbacklistStr",
+			"isback",
+			"checkresult",
+			"isblacklist",
+			"sexStr",
+			"at_customerproperty1",
+			"at_otherproperty1",
+			"Ext.Msg",
+			"response.responseText",
+			"result.msg",
+			"是否删除",
+			"确定要删除吗",
+			"添加工作类别失败",
+			"result.msg",
+			"();\n",
+			"result.msg",
+			"/**",
+			"result.msg",
+			"品牌",
+			"打印成功",
+			"审核成功",
+			"登录",
+			"登录成功",
+			"已锁定",
+			"审核",
+			"已审核",
+			"记录不存在",
+			"主货币",
+			"类别",
+			"产品",
+			"导入成功",
+			"return",
+			"退回",
+			"项目金额",
+			"总金额",
+			"联系人",
+			"机会名称",
+			"无",
+			"机会",
+			"活动费用",
+			"进展阶段",
+			"任务",
+			"生日",
+			"审核人",
+			"类型",
+			"文件不存在",
+			"删除",
+			"删除成功",
+			"添加成功",
+			"id",
+			"success",
+			"修改成功",
+			"修改",
+			"修改成功",
+			"邮件验证码",
+			"用户",
+			"用户不存在",
+			"此用户不存在",
+			"注销成功",
+			"验证码",
+			"验证码错误",
+			"验证码不正确",
+			"用户名和密码不可以为空！",
+			"saveCustomer",
+			"new Ext.data.ArrayStore",
+			"Ext.create",
+			"new Ext.data.Store",
+			"new Ext.Store",
+			"delCustomerContacts",
+			"delCustomerContactsbtn",
+			"contactsalladdpanel",
+			"contactsAllAddWinId",
+			"editCustomerContactsSimple",
+			"cuscontactlist",
+			"customerAddWinId",
+			"editCustomers",
+			"Personal information",
+			"user_female",
+			"Person info",
+			"个人详情",
+			"任务金额",
+			"年"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "安装Command-T插件.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								847,
+								847
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "memo.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"g",
+				"app/util/Global.js"
+			],
+			[
+				"workbenchwincontroller",
+				"app/view/workbench/WorkbenchWinController.js"
+			],
+			[
+				"optquotationgrid",
+				"app/view/opt/quotation/OptQuotationGrid.js"
+			],
+			[
+				"optfullform",
+				"app/view/opt/main/OptFullForm.js"
+			],
+			[
+				"customercheckpanel",
+				"app/view/customer/check/CustomerCheckPanel.js"
+			],
+			[
+				"employeeredact",
+				"app/view/employee/redact/EmployeeRedact.js"
+			],
+			[
+				"agencyeditform",
+				"app/view/agency/AgencyEditForm.js"
+			],
+			[
+				"customeralladdgrid.js",
+				"app/view/customer/CustomerAllAddGrid.js"
+			],
+			[
+				"leadpersongrid.js",
+				"app/view/lead/modal/LeadPersonGrid.js"
+			],
+			[
+				"optgridsearchform.js",
+				"app/view/opt/OptGridSearchForm.js"
+			],
+			[
+				"leadpersonlist.js",
+				"app/view/lead/LeadPersonList.js"
+			],
+			[
+				"emplo",
+				"app/view/employee/EmployeeList.js"
+			],
+			[
+				"employee",
+				"app/model/employee/Employee.js"
+			],
+			[
+				"optproductmodel.js",
+				"app/view/opt/product/OptProductModel.js"
+			],
+			[
+				"optgrid",
+				"app/view/opt/OptGridSearchForm.js"
+			],
+			[
+				"app",
+				"app/view/desktop/App.js"
+			],
+			[
+				"glo",
+				"app/util/Global.js"
+			],
+			[
+				"optwin",
+				"app/view/opt/product/OptProductWin.js"
+			],
+			[
+				"opt",
+				"app/view/opt/OptGridWin.js"
+			],
+			[
+				"sys",
+				"app/view/systemconfig/SystemConfigWin.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Media Data/百度云同步盘/Tasks/tasks.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

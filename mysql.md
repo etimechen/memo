@@ -42,4 +42,4 @@ SET SQL_SAFE_UPDATES=0;
 
 
 
-[img1]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/BAF0DB76-2091-4FB8-94E7-A7F608644813.png
+[img1]: https://github.com/etimechen/memo/blob/master/images/BAF0DB76-2091-4FB8-94E7-A7F608644813.png

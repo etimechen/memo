@@ -575,8 +575,8 @@ VSMS.Locale.changeone[VSMS.Locale.lang]
 
 [https://www.sencha.com/forum/showthread.php?295987-UPDATED-Two-themes-in-single-app-5.1](https://www.sencha.com/forum/showthread.php?295987-UPDATED-Two-themes-in-single-app-5.1)
 
-[img1]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/jnesis-i18n-img1.png
-[img2]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/jnesis-i18n-img2.png
-[img3]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/i18n-img3.png
-[img4]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/i18n-img4.png
-[img5]: file:///Volumes/Media%20Data/百度云同步盘/MarkDown/images/i18n-img5.png
+[img1]: https://github.com/etimechen/memo/blob/master/images/jnesis-i18n-img1.png
+[img2]: https://github.com/etimechen/memo/blob/master/images/jnesis-i18n-img2.png
+[img3]: https://github.com/etimechen/memo/blob/master/images/i18n-img3.png
+[img4]: https://github.com/etimechen/memo/blob/master/images/i18n-img4.png
+[img5]: https://github.com/etimechen/memo/blob/master/images/i18n-img5.png
