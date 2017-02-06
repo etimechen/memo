@@ -78,13 +78,11 @@
 			}
 		},
 		{
-			"contents": "# ExtJs 当饼图只有一项数据记录占比为100%时tooltip和events无效问题修复\n\n## 问题描述\n\n```\nvar store = Ext.create('Ext.data.JsonStore', {\n        fields: ['name', 'number'],\n        data: [{\n            'name': 'Homer',\n            \"number\": 100\n        }]\n    });\n\nExt.create({\n    xtype: 'panel',\n    layout: {\n        type: 'vbox'\n    },\n    items: [{\n        xtype: 'polar',\n        store: store,\n        insetPadding: 20,\n        innerPadding: 20,               \n        legend: {\n            docked: 'bottom'\n        },\n        interactions: ['rotate'],\n        series: [{\n            type: 'pie',\n            label: {\n                display: 'outside',\n                field: 'name'\n            },\n            xField: 'number',\n            tooltip: {\n                style: 'background: #fff',\n                renderer: function(storeItem, item) {\n                    this.setHtml('test');\n\n                }\n\n            }\n        }],\n        width: '100%',\n        height: 300\n    }],\n    width: 500,\n    height: 600,\n    renderTo: Ext.getBody()\n});\n\n```\n\n当只有一项数据记录,饼图占比为100%时不显示tooltip,并且itemclick事件无效,演示地址: [https://fiddle.sencha.com/#fiddle/c42&view/editor](https://fiddle.sencha.com/#fiddle/c42&view/editor)\n\n## 解决方法\n\n重写饼图\n\n```\nExt.define('overrides.chart.series.Pie', {\n\toverride: 'Ext.chart.series.Pie',\n\tbetweenAngle: function(x, a, b) {\n        if (a === 0 && b > (Math.PI*2-0.00000001)) {\n        \treturn true;\n        } else {\n        \tvar pp = Math.PI * 2,\n            offset = this.rotationOffset;\n\t        if (!this.getClockwise()) {\n\t            x *= -1;\n\t            a *= -1;\n\t            b *= -1;\n\t            a -= offset;\n\t            b -= offset;\n\t        } else {\n\t            a += offset;\n\t            b += offset;\n\t        }\n\t        b -= a;\n\t        x -= a;\n\t        x %= pp;\n\t        b %= pp;\n\t        x += pp;\n\t        b += pp;\n\t        x %= pp;\n\t        b %= pp;\n\t        return x < b;\n        }\n    }\n});\n```",
 			"file": "ExtJs 当饼图只有一项数据记录占比为100%时tooltip和events无效问题修复.md",
-			"file_size": 0,
-			"file_write_time": 131279831510000000,
 			"settings":
 			{
-				"buffer_size": 1915,
+				"buffer_size": 2102,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -103,6 +101,18 @@
 			[
 				"git push",
 				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
 			],
 			[
 				"git pull",
@@ -190,10 +200,6 @@
 			],
 			[
 				"markdown preview",
-				"Markdown Preview: Preview in Browser"
-			],
-			[
-				"ma",
 				"Markdown Preview: Preview in Browser"
 			],
 			[
@@ -1165,15 +1171,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1915,
+						"buffer_size": 2102,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1234,
-								1234
+								496,
+								496
 							]
 						],
 						"settings":
@@ -1186,24 +1192,24 @@
 								{
 									"1":
 									[
-										1909,
-										1910
+										962,
+										963
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.round"
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.curly"
 									]
 								},
 								"open":
 								{
 									"1":
 									[
-										1223,
-										1224
+										324,
+										325
 									]
 								},
 								"unmatched":
@@ -1269,10 +1275,14 @@
 								"bh_regex_content"
 							],
 							"open_with_edit": true,
-							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+							"parser": "github",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 493.0,
+						"translation.y": 8.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1424,7 +1434,7 @@
 		[
 			[
 				"",
-				"~/Works/Works/vsms/vsms/vsms/vsms.sublime-project"
+				"/Volumes/Media Data/百度云同步盘/Tasks/tasks.sublime-project"
 			]
 		],
 		"width": 380.0
