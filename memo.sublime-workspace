@@ -24,19 +24,38 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/chenliang/Desktop/demo/untitled.html",
+			"file": "readingNotes/人人都是产品经理.md",
 			"settings":
 			{
-				"buffer_size": 1027,
+				"buffer_size": 1267,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "群辉NAS搭建Git服务器.md",
+			"file": "设计模式.md",
 			"settings":
 			{
-				"buffer_size": 1137,
+				"buffer_size": 568,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "设计模式"
+			}
+		},
+		{
+			"file": "Sencha笔记.md",
+			"settings":
+			{
+				"buffer_size": 484,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ubuntu使用指定用户启动tomcat.md",
+			"settings":
+			{
+				"buffer_size": 179,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -49,17 +68,41 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 375.0,
-		"last_filter": "html",
+		"height": 71.0,
+		"last_filter": "sql",
 		"selected_items":
 		[
 			[
-				"html",
-				"Set Syntax: HTML"
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
 			],
 			[
 				"git push",
 				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
 			],
 			[
 				"git commit",
@@ -68,10 +111,6 @@
 			[
 				"git add",
 				"Git: Add All"
-			],
-			[
-				"markdown",
-				"Markdown Preview: Preview in Browser"
 			],
 			[
 				"disable",
@@ -118,10 +157,6 @@
 				"Git: Add All"
 			],
 			[
-				"ma",
-				"MarkdownEditing: New Image"
-			],
-			[
 				"git",
 				"Git: Push"
 			],
@@ -132,10 +167,6 @@
 			[
 				"git pu",
 				"Git: Push"
-			],
-			[
-				"sql",
-				"Set Syntax: SQL"
 			],
 			[
 				"json",
@@ -230,10 +261,21 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/chenliang/Works/Memo"
+		"/Users/chenliang/Works/Memo",
+		"/Users/chenliang/Works/Memo/readingNotes"
 	],
 	"file_history":
 	[
+		"/Users/chenliang/Works/Works/vsms/documents/mysql/chart/proc_chart_ability_orderreceiving.sql",
+		"/Users/chenliang/Works/Works/vsms/documents/mysql/chart/proc_chart_ability_allstagewin.sql",
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/marketanalysis/leadsourcequality/LeadSourceQualityController.js",
+		"/private/var/folders/w6/0rp1m96s4v95dwtymp_m81180000gn/T/fz3temp-2/LocalSettings.php",
+		"/Users/chenliang/Works/Memo/群辉NAS搭建Git服务器.md",
+		"/Users/chenliang/Works/Works/vsms-old/vsmsserver/doc/desc/desc.txt",
+		"/Users/chenliang/Works/Works/vsms/documents/测试步骤.md",
+		"/Users/chenliang/Works/Works/vsms/documents/角色-权限对应.md",
+		"/Users/chenliang/Works/Works/vsms/documents/项目更新路径.md",
+		"/Users/chenliang/Desktop/demo/untitled.html",
 		"/Users/chenliang/Works/Memo/正则表达式.md",
 		"/Users/chenliang/Works/Memo/SublimeText.md",
 		"/Users/chenliang/Works/Memo/mysql.md",
@@ -253,7 +295,6 @@
 		"/Users/chenliang/Works/blog/index.md",
 		"/Volumes/临时文档/canvas小项目 黄康/canvasPillar2.html",
 		"/Volumes/临时文档/余文波/canvas小项目/作业.html",
-		"/Users/chenliang/Desktop/demo/untitled.html",
 		"/Users/chenliang/Works/Websites/鑫创绩/鑫创绩整站20170224/googlecdef9ff55089e54e.html",
 		"/Users/chenliang/Works/blog/_layouts/default.html",
 		"/Users/chenliang/Works/blog/_layouts/post.html",
@@ -288,7 +329,6 @@
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/opt/OptGrid.js",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Application.js",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/util/Global.js",
-		"/Users/chenliang/Works/Works/vsms/documents/项目更新路径.md",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/index.html",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/topn/OptTopNChart.js",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/desktop/chart/optanalysis/funnelanalysis/SizeChart12.js",
@@ -352,16 +392,8 @@
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductController.js",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductAddGrid.js",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/product/ProductAddWin.js",
-		"/Users/chenliang/Works/Works/vsms/documents/测试步骤.md",
 		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/Readme.md",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/todo/lead/Lead.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/database/lead/LeadGrid.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/LeadList.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/todo/lead/LeadReturn.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/LeadEditor.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/lead/CustomerLeadList.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/customer/modal/OfficialCustomerGrid.js",
-		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/model/workbench/database/customer/Customer.js"
+		"/Users/chenliang/Works/Works/vsms/vsms/vsms/app/view/workbench/todo/lead/Lead.js"
 	],
 	"find":
 	{
@@ -385,6 +417,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"statuscondition",
+			"statuscondition2",
+			"$date1condition)",
+			" $othercondition $statuscondition) opts left join opt on opts.id = opt.id) opt)",
+			"numbersqlstr",
+			"wgGroupPermissions",
+			"session_save_path",
 			"classic",
 			"alert",
 			"gf",
@@ -505,14 +544,7 @@
 			"delCustomerContacts",
 			"delCustomerContactsbtn",
 			"contactsalladdpanel",
-			"contactsAllAddWinId",
-			"editCustomerContactsSimple",
-			"cuscontactlist",
-			"customerAddWinId",
-			"editCustomers",
-			"Personal information",
-			"user_female",
-			"Person info"
+			"contactsAllAddWinId"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -520,6 +552,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"$date1condition $statuscondition2)",
+			") opts left join opt on opts.id = opt.id) opt where opt.isdelete = 0 $othercondition $statuscondition)",
+			"moneysqlstr",
 			""
 		],
 		"reverse": false,
@@ -536,19 +571,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/chenliang/Desktop/demo/untitled.html",
+					"file": "readingNotes/人人都是产品经理.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1027,
+						"buffer_size": 1267,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								969,
-								969
+								245,
+								245
 							]
 						],
 						"settings":
@@ -559,27 +594,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										968,
-										969
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.round"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										967,
-										968
-									]
 								},
 								"unmatched":
 								{
@@ -592,36 +612,21 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -632,105 +637,16 @@
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "群辉NAS搭建Git服务器.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1137,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1136,
-								1136
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -747,7 +663,111 @@
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"open_with_edit": true,
+							"parser": "github",
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "设计模式.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
 							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -755,6 +775,212 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Sencha笔记.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								36
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ubuntu使用指定用户启动tomcat.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -803,7 +1029,7 @@
 	"project": "memo.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -903,7 +1129,7 @@
 		[
 			[
 				"",
-				"/Volumes/Media Data/百度云同步盘/Tasks/tasks.sublime-project"
+				"~/Works/Works/vsms/vsms/vsms/vsms.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -925,7 +1151,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 218.0,
+	"side_bar_width": 235.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
