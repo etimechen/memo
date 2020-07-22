@@ -28,7 +28,7 @@ SET SQL_SAFE_UPDATES=0;
 * 在mysqld下加入 `--character_set_server=utf8`
 
 
-
+update opt left join (select optid,sum(rmbprice) as price from optproduct group by optid) op on opt.id=op.optid set opt.totalprice = op.price
 
 
 
