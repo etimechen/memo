@@ -6,7 +6,7 @@ Inno Setup 是由Jordan Russell 和 Martijn Laan 开发的一款免费的Windows
 
 ## 主要特点
 
-* 支持所有自2006年以来的Windows版本，包含：Windows 10， Windows 10 on ARM，Windows Server 2019，Windows Server 2016，Windows 8.1，Windows 8，Windows Server 2012，Windows 7，Windows Server 2008 R2，Windows Server 2008，and Windows Vista。（不需要服务包）
+* 支持所有自2006年以来的Windows版本，包含：Windows 10， Windows 10 on ARM，Windows Server 2019，Windows Server 2016，Windows 8.1，Windows 8，Windows Server 2012，Windows 7，Windows Server 2008 R2，Windows Server 2008 和 Windows Vista。（不需要服务包）
 * 广泛支持在64位版本的Windows上安装64位应用程序。x64，ARM64和Itanium架构全都支持。
 * 广泛支持以“管理员”和“非管理员”安装。
 * 支持创建单个EXE来安装程序以方便在线分发。还支持Disk spanning。
